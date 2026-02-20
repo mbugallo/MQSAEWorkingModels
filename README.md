@@ -5,7 +5,7 @@ R code for the paper Generalized M-Quantile Small Area Estimation under Working 
 
 **Affiliations**:
 
-[1] Department of Mathematics, University of A Coru\~na, Spain.
+[1] Department of Mathematics, University of A Coruña, Spain.
 
 [2] Department of Economics and Management, University of Pisa, Italy.
 
