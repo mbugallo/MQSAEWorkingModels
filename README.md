@@ -1,7 +1,16 @@
 # MQSAEWorkingModels
 R code for the paper Generalized M-Quantile Small Area Estimation under Working Models, including simulations and real-data applications.
 
-**Authors:** María Bugallo, Nicola Salvati and Ray Chambers
+**Authors:** María Bugallo [1], Nicola Salvati [2] and Ray Chambers [3]
+
+**Affiliations**:
+
+[1] Department of Mathematics, University of A Coru\~na, Spain.
+
+[2] Department of Economics and Management, University of Pisa, Italy.
+
+[3] College of Business and Economics, Australian National University, Australia.
+
 
 ##  Repository Overview
 This repository contains all the code and materials required to reproduce the analyses, simulations, and figures presented in the main document of the paper Generalized M-Quantile Small Area Estimation under Working Models and its appendices.
